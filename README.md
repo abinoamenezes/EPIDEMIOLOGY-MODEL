@@ -1,27 +1,27 @@
-# Modelo Epidemiológico SLITR para Tuberculose
+# 📌 Modelo Epidemiológico SLITR para Tuberculose
 
 Este repositório apresenta a implementação de um modelo epidemiológico compartimental SLITR aplicado ao estudo da dinâmica da tuberculose, considerando os estados de suscetíveis, infecção latente, infecção ativa, tratamento e recuperação.
 
-# Objetivo
+# 🎯 Objetivo
 
 Analisar a evolução temporal da tuberculose em uma população e avaliar o impacto de diferentes estratégias de intervenção, com ênfase no papel da infecção latente na manutenção do estado endêmico.
 
-# Modelo
+# 📊 Modelo
 
 O modelo divide a população em cinco compartimentos:
 S (suscetíveis), L (latentes), I (ativos), T (tratamento) e R (recuperados), incorporando latência, reativação, tratamento e reinfecção parcial.
 
-# Cenários simulados
+# 🎛️ Cenários simulados
 
 Cenário Base
 Diagnóstico Precoce
 Redução da Reativação da Infecção Latente
 
-# Implementação: 
+# 🛠️ Implementação: 
 
 O modelo foi implementado em Python, utilizando as bibliotecas NumPy, SciPy e Matplotlib para simulação numérica e visualização dos resultados.
 
-# Como executar:
+# ▶️ Como executar:
 
 1. Clone o repostiório:
 
@@ -47,7 +47,7 @@ O modelo foi implementado em Python, utilizando as bibliotecas NumPy, SciPy e Ma
     
 ```python simulate.py --sigma 0.0002```
 
-# Link artigo
+# 📄 Link artigo
 
 ```https://drive.google.com/file/d/1v6CIvrTozDmDddbWCngjHWdfX3IUJNjo/view?usp=sharing```
 
