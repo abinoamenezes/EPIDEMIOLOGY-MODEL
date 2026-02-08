@@ -24,32 +24,39 @@ O modelo foi implementado em Python, utilizando as bibliotecas NumPy, SciPy e Ma
 # ▶️ Como executar:
 
 1. Clone o repostiório:
-
-```https://github.com/abinoamenezes/EPIDEMIOLOGY-MODEL.git```
+```
+https://github.com/abinoamenezes/EPIDEMIOLOGY-MODEL.git
+```
  
 2. Acesse o diretório do projeto:
-
-```cd EPIDEMIOLOGY-MODEL```
+```
+cd EPIDEMIOLOGY-MODEL
+```
 
 3. Instale as dependências:
-
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 4. Execute o cenário base:
-
-```python simulate.py```
+```
+python simulate.py
+```
    
 5. Execute o cenário de diagnóstico precoce:
-
-```python simulate.py --delta 0.03```
+```
+python simulate.py --delta 0.03
+```
 
  6. Execute o cenário de redução da reativação da infecção latente:
-    
-```python simulate.py --sigma 0.0002```
+```
+python simulate.py --sigma 0.0002
+```
 
 # 📄 Link artigo
-
-```https://drive.google.com/file/d/1v6CIvrTozDmDddbWCngjHWdfX3IUJNjo/view?usp=sharing```
+```
+https://drive.google.com/file/d/1v6CIvrTozDmDddbWCngjHWdfX3IUJNjo/view?usp=sharing
+```
 
 
 
